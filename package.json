@@ -1,0 +1,9 @@
+{
+    "name": "youtube-tempo",
+    "title": "Youtube Tempo",
+    "id": "jid1-u006oRRBRlB9ow",
+    "description": "Add a pitch slider to youtube.",
+    "author": "Michał Koziarski",
+    "license": "GPL 2.0",
+    "version": "0.1"
+}

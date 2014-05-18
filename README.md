@@ -1,0 +1,1 @@
+A Firefox add-on that adds a pitch slider to youtube.
